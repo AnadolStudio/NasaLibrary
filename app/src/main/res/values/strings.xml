@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NasaLibrary</string>
+    <string name="loading">Loading</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
+    <string name="search">Search</string>
+    <string name="search2">Search&#8230;</string>
+    <string name="date_created">Date created:</string>
+    <string name="center">Center:</string>
+    <string name="description_example">
+        AS11–40–5874 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr.,
+        lunar module pilot of the first lunar landing mission, poses for a photograph beside
+        the deployed United States flag during Apollo 11 extravehicular activity (EVA) on the lunar surface.
+        The Lunar Module (LM) is on the left, and the footprints of the astronauts are clearly visible in the soil of the moon.
+        Astronaut Neil A. Armstrong, commander, took this picture with a 70mm Hasselblad lunar surface camera. While astronauts
+        Armstrong and Aldrin descended in the LM the \"Eagle\" to explore the Sea of Tranquility region of the moon,
+        astronaut Michael Collins, command module pilot, remained with the Command and Service Modules (CSM) \"Columbia\" in lunar orbit.
+        \n
+        AS11–40–5874 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr.,
+        lunar module pilot of the first lunar landing mission, poses for a photograph beside
+        the deployed United States flag during Apollo 11 extravehicular activity (EVA) on the lunar surface.
+        The Lunar Module (LM) is on the left, and the footprints of the astronauts are clearly visible in the soil of the moon.
+        Astronaut Neil A. Armstrong, commander, took this picture with a 70mm Hasselblad lunar surface camera. While astronauts
+        Armstrong and Aldrin descended in the LM the \"Eagle\" to explore the Sea of Tranquility region of the moon,
+        astronaut Michael Collins, command module pilot, remained with the Command and Service Modules (CSM) \"Columbia\" in lunar orbit.</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="failed_to_upload_file">Failed to upload file</string>
+    <string name="image_description">Image</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+    </style>
+
+    <style name="TitleText" parent="android:Widget.TextView">
+        <item name="android:textAppearance">@style/TitleTextAppearance</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_normal</item>
+    </style>
+
+    <style name="TitleTextAppearance" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SimpleSecondaryText" parent="android:Widget.TextView">
+        <item name="android:textSize">@dimen/text_subtitle</item>
+        <item name="android:textColor">@color/colorSecondaryText</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">@dimen/margin_xsmall</item>
+    </style>
+
+    <style name="SimpleItem">
+        <item name="android:minHeight">24dp</item>
+    </style>
+
+</resources>
